@@ -3,7 +3,7 @@
 Clone the repo and install the dependencies.
 
 ```bash
-git clone https://github.com/contentful/the-example-app.nodejs.git
+git clone https://github.com/Mostafame8/node-app.git
 cd node-app
 ```
 
