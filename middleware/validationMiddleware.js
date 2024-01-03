@@ -7,7 +7,7 @@ const hashPassword = async (password) => {
     return hashedPassword;
   } catch (error) {
     console.error('Error hashing password:', error);
-    throw error; // You might want to handle this error in a more appropriate way in your application
+    throw error;
   }
 };
 
